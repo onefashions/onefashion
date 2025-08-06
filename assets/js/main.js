@@ -402,8 +402,8 @@
         responsiveClass: true,
         responsive: {
             0: {
-                items: 1,
-                dots: false,
+                items: 2,
+               
             },
             461: {
                 items: 2,
